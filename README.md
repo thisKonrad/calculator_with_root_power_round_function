@@ -1,6 +1,9 @@
 # calculator_with_root_power_and_round_function
 calculator_basic
 
+you can watch it on codepen:
+https://codepen.io/Konrad-Wittich/pen/vYvebya
+
 Delete all numbers with click inside the result window.
 Delete one number with DEL-button.
 
